@@ -1,0 +1,16 @@
+# IDEs / Editors
+.idea/
+.vscode/
+*.iml
+*.iws
+*.ipr
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Java / Maven
+target/
+
+# Logs
+*.log
